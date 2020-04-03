@@ -1,0 +1,23 @@
+body{
+  background-color: #fff12b;
+}
+ .first-content{
+   width: 400px;
+   height: 220px;
+   background-color: #3bffaa;
+   color: black;
+   padding: 20px;
+   border: 10px solid green;
+   margin: 50px;
+
+
+ }
+ .second-content{
+   width: 400px;
+   height: 280px;
+   background-color: #d9ff00;
+   color: black;
+   padding: 20px;
+   border: 10px solid #0062ff;
+   margin: 50px;
+ }
